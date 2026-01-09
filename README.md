@@ -8,9 +8,9 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) application for property
 - **User Authentication**: Signup, Login, Profile Management
 - **Property Listings**: Browse, search, and filter properties
 - **Booking System**: Select dates, calculate prices, and book properties
-- **Payment Simulation**: Dummy payment processing for bookings
-- **User Dashboard**: View bookings and manage accommodations
-- **Responsive Design**: Modern UI with TailwindCSS
+- **Payment Simulation**: Dummy payment processing for bookings(can integrate razor pay , when made funtional)
+- **User Dashboard**: View bookings and manage accommodations, see the listing of properties
+- **Responsive Design**: UI with TailwindCSS
 
 ## Tech Stack
 
@@ -240,8 +240,8 @@ npm run dev
 
 ## License
 
-ISC
+MIT
 
 ## Author
-
+Manaswini
 HomelyHub Development Team
